@@ -50,7 +50,7 @@ async function getWeatherData(cityValue){
 
         weatherData.querySelector(".temperature").textContent = "";
 
-        weatherData.querySelector(".description").textContent = "An error occured, please try again leter!";
+        weatherData.querySelector(".description").textContent = "Ai desh ki apni toiri korsen? Thik naam den nahole dure giye moren";
 
         weatherData.querySelector(".details").innerHTML = "";
         
